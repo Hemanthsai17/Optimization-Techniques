@@ -1,2 +1,2 @@
-# MDSC-103
-Optimization Techniques
+# Optimization Techniques
+MDSC-103
